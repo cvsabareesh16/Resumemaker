@@ -1,0 +1,62 @@
+{
+  "name": "Your Name",
+  "title": "Cybersecurity Intern / SOC Analyst Fresher",
+  "email": "your.email@example.com",
+  "phone": "+91 98765 43210",
+  "location": "Kerala, India",
+  "linkedin": "https://linkedin.com/in/yourname",
+  "github": "https://github.com/yourname",
+  "portfolio": "https://yourportfolio.com",
+  "summary": "Motivated cybersecurity learner with hands-on practice in Linux, Nmap scanning, vulnerability identification, web security basics, and lab-based exploitation in legal environments. Strong interest in SOC, VAPT, and security operations.",
+  "skills": {
+    "Security Tools": ["Nmap", "Metasploit", "Burp Suite", "Nikto", "SQLMap", "John the Ripper"],
+    "Core Skills": ["Network Scanning", "Web Vulnerability Testing", "Linux Basics", "Report Writing", "Reconnaissance"],
+    "Programming": ["Python", "Bash", "HTML", "CSS"],
+    "Platforms": ["Kali Linux", "Windows", "VirtualBox", "GitHub"]
+  },
+  "experience": [
+    {
+      "role": "Cybersecurity Lab Practitioner",
+      "company": "Self-Learning / Home Lab",
+      "location": "Remote",
+      "start": "2025",
+      "end": "Present",
+      "bullets": [
+        "Performed authorized vulnerability scanning on local lab machines using Nmap and documented open ports, services, and possible risks.",
+        "Practiced exploitation and post-exploitation basics on intentionally vulnerable VMs such as Metasploitable and VulnHub machines.",
+        "Created structured security reports with findings, impact, evidence, and remediation steps."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Vulnerability Scanner Report Generator",
+      "link": "https://github.com/yourname/vuln-scanner",
+      "bullets": [
+        "Built a Python-based tool that runs safe reconnaissance checks and generates simple vulnerability reports.",
+        "Added support for target input, scan output saving, and beginner-friendly report formatting."
+      ]
+    },
+    {
+      "name": "VulnHub Lab Writeups",
+      "link": "https://github.com/yourname/vulnhub-writeups",
+      "bullets": [
+        "Published legal lab walkthrough notes covering enumeration, exploitation path, lessons learned, and remediation ideas."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "+2 / Higher Secondary",
+      "school": "Your School Name",
+      "location": "Kerala, India",
+      "start": "2020",
+      "end": "2022"
+    }
+  ],
+  "certifications": [
+    "Google Cybersecurity Professional Certificate - In Progress",
+    "TryHackMe / Hack The Box Beginner Labs - In Progress"
+  ],
+  "languages": ["English", "Malayalam", "Tamil"]
+}

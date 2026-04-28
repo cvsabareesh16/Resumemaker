@@ -1,0 +1,23 @@
+RESUME MAKER PRO - QUICK INSTRUCTIONS
+
+1. Install Python 3.
+2. Open terminal in this project folder.
+3. Run:
+   pip install -r requirements.txt
+
+4. Edit resume_data.json with your own details.
+
+5. Create ATS-friendly PDF:
+   python main.py --template ats --format pdf
+
+6. Create professional PDF:
+   python main.py --template pro --format pdf
+
+7. Create PDF + HTML:
+   python main.py --template ats --format both
+
+8. Check generated files inside the output folder.
+
+Best for job sending:
+- Use the ats template for online job portals.
+- Use the pro template when emailing HR or applying directly.

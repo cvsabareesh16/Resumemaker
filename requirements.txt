@@ -1,0 +1,2 @@
+# No Python packages required.
+# PDF export uses Chromium/Chrome in headless mode.
